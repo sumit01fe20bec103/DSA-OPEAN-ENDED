@@ -1,0 +1,10 @@
+100 Parotadish 15
+200 Kajumasala 234
+115 Eggmasala 299
+133 Eggkohlapuri 299
+203 Vegthali 233
+144 Paneerdish 400
+300 Firedrice 200
+288 Jeerarice 100
+244 Eggbirani 200
+211 Vegbirani 100
